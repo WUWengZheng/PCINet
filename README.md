@@ -9,9 +9,7 @@ PCINet_code/
   assess.py                        # 指标计算工具
   flops_counter.py                 # FLOPs / 参数量统计
   poly.py                          # poly learning-rate helper
-  requirements.txt                 # 主要 Python 依赖
-  EXPERIMENT_STEPS.md              # 实验步骤说明
-  PCINet_RemoteSensing_Outline_CN.md
+
   models/
     MobileNetV2.py                 # MobileNetV2 backbone
     pgc_cdnet.py                   # PCINet 主体网络与模块
